@@ -14,8 +14,8 @@ ALTER SERVER ROLE sysadmin ADD MEMBER [AdminTest];
 GO  
 GRANT ALTER ON dbo.drontaxi TO AdminTest;
 
-Папку build из AS2020\web\dron-taxi-web\ поместить на OpenServer
 Сервер для веб сайта в папке AS2020\web\dron-taxi-web-server\ запустить из консоли node server.js
+Папку build из AS2020\web\dron-taxi-web\ поместить на OpenServer и запустить сайт по названию этой папки
 
 Данные для входа: 
 Логин: testuser@email.com
