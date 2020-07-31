@@ -15,6 +15,7 @@ GO
 GRANT ALTER ON dbo.drontaxi TO AdminTest;
 
 Папку build из AS2020\web\dron-taxi-web\ поместить на OpenServer
+Сервер для веб сайта в папке AS2020\web\dron-taxi-web-server\ запустить из консоли node server.js
 
 Данные для входа: 
 Логин: testuser@email.com
