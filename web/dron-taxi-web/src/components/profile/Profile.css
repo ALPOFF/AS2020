@@ -1,0 +1,55 @@
+.tab {
+    flex: 1;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tab:hover {
+    background-color: #973E95;
+    cursor: pointer;
+}
+
+.tabDisabled {
+    background-color: #991199;
+}
+
+.roleDiv {
+    cursor: pointer;
+    background-color: #800080;
+    width: 80%;
+}
+
+.roleDiv:hover {
+    cursor: pointer;
+    border: 1px solid #00BFFF;
+    background-color: #973E95;
+}
+
+.int {
+    display: flex
+}
+
+.envRoles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 120px;
+    overflow: auto;
+}
+
+.ava {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 50px
+}
+
+.ava input {
+    width: 350px;
+}

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eeb48576.chunk.css",
+    "main.js": "/static/js/main.cef216dd.chunk.js",
+    "main.js.map": "/static/js/main.cef216dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe1e0ad1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe1e0ad1.js.map",
+    "static/js/2.6a0c71ee.chunk.js": "/static/js/2.6a0c71ee.chunk.js",
+    "static/js/2.6a0c71ee.chunk.js.map": "/static/js/2.6a0c71ee.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.710327ee2bd7e1608322f68a68c3926a.js": "/precache-manifest.710327ee2bd7e1608322f68a68c3926a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eeb48576.chunk.css.map": "/static/css/main.eeb48576.chunk.css.map",
+    "static/js/2.6a0c71ee.chunk.js.LICENSE.txt": "/static/js/2.6a0c71ee.chunk.js.LICENSE.txt",
+    "static/media/LogoDronTaxi.svg": "/static/media/LogoDronTaxi.e302eea0.svg",
+    "static/media/exit.svg": "/static/media/exit.7952e0d0.svg",
+    "static/media/filter.svg": "/static/media/filter.07e5d912.svg",
+    "static/media/index.css": "/static/media/flying-taxi.8da5ec5e.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/manag-user.svg": "/static/media/manag-user.d7d6c5dc.svg",
+    "static/media/profile.svg": "/static/media/profile.7cfbaa1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe1e0ad1.js",
+    "static/js/2.6a0c71ee.chunk.js",
+    "static/css/main.eeb48576.chunk.css",
+    "static/js/main.cef216dd.chunk.js"
+  ]
+}

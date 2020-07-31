@@ -1,0 +1,170 @@
+.MainContainer {
+    width: 100%;
+    height: 100%;
+    background-color: #800080;
+    display: flex;
+}
+
+.MainContainer svg {
+    width: 50px;
+    height: 50px;
+}
+
+.MenuElement {
+    display: flex;
+    flex-direction: column;
+    height: 10%;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+.MenuElement svg {
+    width: 25px;
+    height: 25px;
+}
+
+.LeftBar {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 85%;
+    align-items: center;
+ }
+
+.MenuElement h6 {
+    padding-left: 30px;
+}
+
+.LeftBar svg {
+    width: 25px;
+    height: 25px;
+}
+
+.LeftBar button {
+    padding-left: 30px;
+    border: none;
+}
+
+.LeftBar button:focus {
+    outline: none;
+    cursor: pointer;
+}
+
+.OrderTop {
+    display: flex;
+    align-items: center;
+    padding: 30px 0;
+    justify-content: space-between;
+    width: 90%
+}
+
+.MyOrders {
+    flex: 2;
+    padding: 40px;
+}
+
+.inputBlock {
+    padding: 30px 0
+}
+
+.NewOrder {
+    flex: 1;
+    padding: 40px 80px
+}
+
+.OrderTop svg {
+    width: 25px;
+    height: 25px;
+}
+
+.MainContainer input {
+    width: 250px;
+    height: 40px;
+    border: #00BFFF Solid 2px;
+    color: #000000;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.MainContainer input::placeholder {
+    color: #747272;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.MainContainer input[type="text"] {
+    color: #747272;
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.MainContainer input[type="email"] {
+    color: #747272;
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.MainContainer input[type="phone"] {
+    color: #747272;
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.MainContainer input[type="password"] {
+    color: #747272;
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.MainContainer input[type="password"] {
+    color: #747272;
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.MainContainer input[type="date"] {
+    color: #747272;
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.MainContainer select {
+    width: 250px;
+    height: 40px;
+    border: 2px solid #00BFFF;
+    border-radius: 5px;
+}
+
+.MainContainer select {
+    width: 250px;
+    height: 40px;
+    border: 2px solid #00BFFF;
+    border-radius: 5px;
+}
+
+.MainContainer select::placeholder {
+    font-weight: bold;
+    font-size: 10px;
+    color: #000000;
+    height: 40px;
+    border: 2px solid #00BFFF;
+    border-radius: 5px;
+}
+
+.MainContainer option {
+    color: #000000;
+    font-weight: bold;
+    font-size: 10px;
+    height: 40px;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+}

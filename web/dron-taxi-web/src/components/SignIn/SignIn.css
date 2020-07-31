@@ -1,0 +1,47 @@
+.SignInWrapper {
+  display: flex;
+  flex-direction: column;
+  padding-left: 5%;
+  padding-bottom: 10%;
+  width: 350px;
+}
+.SignIn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+svg {
+  height: 50px;
+  width: 50px;
+}
+
+h3, h4 {
+  color: white;
+  padding-left: 10px;
+  padding-bottom: 5px
+}
+
+h5 {
+  color: white;
+  padding-bottom: 5px
+}
+
+.SignInWrapper button {
+  Background-color: #7FFF7FD9;
+  width: 350px;
+  height: 40px;
+  border-radius: 5px;
+  Border: #FFFFFF Solid 2px;
+  color: #202020;
+}
+
+.SignInWrapper button:hover {
+  Background-color: #128312D9;
+  width: 350px;
+  height: 40px;
+  border-radius: 5px;
+  color: #FFFFFFD9;
+}

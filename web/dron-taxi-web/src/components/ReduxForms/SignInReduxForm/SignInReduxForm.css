@@ -1,0 +1,48 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+}
+
+.fieldCheck {
+  display: flex;
+  margin-bottom: 0.5rem;
+  justify-content: space-between;
+}
+
+.fieldCheck button {
+  border: #FFFFFF Solid 2px;
+  border-radius: 5px;
+  width: 125px;
+  color: #FFFFFF;
+  height: 40px;
+  background-color: #00BFFF;
+}
+
+.fieldCheck button:hover {
+  border: #FFFFFF Solid 2px;
+  width: 125px;
+  height: 40px;
+  background-color: #0087B4;
+}
+
+form {
+  width: 100%;
+}
+
+.input {
+  font-size: 0.8rem;
+  border: 1px solid #CDCDCD;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+}
+
+h6 {
+  margin: 0;
+  padding: 5px 0;
+  color: white;
+}
+
